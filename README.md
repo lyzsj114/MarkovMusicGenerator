@@ -1,5 +1,7 @@
 # MarkovMusicGenerator
 
+![](https://github.com/lyzsj114/MarkovMusicGenerator/blob/main/example_Moment.jpg)
+
 MarkovMusicGenerator是一个基于python的`music21`库构建的MIDI音乐生成及可视化框架，简单构造了Markov模型，并利用`music21`库中包含的语料库进行学习，实现了初步的MIDI旋律生成，同时结合`manimn`库实现了自动生成MIDI旋律可视化视频。
 
 ## Requirements
