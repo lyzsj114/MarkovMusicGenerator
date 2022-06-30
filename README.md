@@ -29,6 +29,8 @@ midi2audio 需先安装 [FluidSynth](https://github.com/FluidSynth/fluidsynth)
 pip install midi21audio
 ```
 
+*FluidSynth使用时需要针对MIDI的音色库，本文使用的音色库可于 [百度网盘 提取码:6jac](https://pan.baidu.com/s/1c0xlGLIhwAcmOwdtpr6mUA) 下载。*
+
 manimlib 需先安装Latex、ffmpeg等依赖，详细安装见于[manimlib](https://github.com/3b1b/manim)
 
 ## Run
